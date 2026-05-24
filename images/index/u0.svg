@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="380px" height="835px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="195.09756097561146" cy="77.0731707317082" r="835.0000000000013" gradientTransform="matrix(-6.80759507315065E-17 1 -0.949999999999999 -6.467215319493111E-17 268.31707317073415 -118.02439024390326 )" gradientUnits="userSpaceOnUse" id="RadialGradient1">
+      <stop id="Stop2" stop-color="#00234d" offset="0" />
+      <stop id="Stop3" stop-color="#fbf8e9" offset="1" />
+    </radialGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4">
+      <path d="M 0 835  L 0 0  L 380 0  L 380 835  L 0 835  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 0 835  L 0 0  L 380 0  L 380 835  L 0 835  Z " fill-rule="nonzero" fill="url(#RadialGradient1)" stroke="none" class="fill" />
+    <path d="M 0 835  L 0 0  L 380 0  L 380 835  L 0 835  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" mask="url(#Clip4)" />
+  </g>
+</svg>
